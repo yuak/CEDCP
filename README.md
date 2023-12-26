@@ -7,7 +7,7 @@ Each dataset is stored in a plain text file with the file extension *".inp"*. Th
 
 Initially, this collection was created to assess models of the properties of composite materials. In order to evaluate the model on multiple datasets, lists of datasets are used. The dataset list is stored in a text file with the extension *".lst"*. Several examples of lists of datasets containing data with a given composite property or filler shape are in the archive.
 
-The [CEDCPdataCollection.odt](https://github.com/yuak/CEDCP/blob/main/CEDCPdataCollection.odt) file contains a table summarizing the datasets and references to the data sources.
+The [CEDCPdataCollection.pdf](https://github.com/yuak/CEDCP/blob/main/CEDCPdataCollection.pdf) file contains a table summarizing the datasets and references to the data sources.
 
 If you use the CEDCP, please cite the following publication
 
